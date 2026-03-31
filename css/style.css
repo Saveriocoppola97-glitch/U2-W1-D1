@@ -82,7 +82,7 @@ header {
 
   background-color: rgba(238, 130, 238, 0.25);
   border: 2px solid rgb(255, 255, 255);
-  color: #d28f90a4;
+  color: #d28f90c0;
 
   padding: 1em 1.2em;
   border-radius: 10px;
@@ -154,7 +154,7 @@ h1 span {
   z-index: 1;
 }
 
-article img {
+article span img {
   position: absolute;
   bottom: -15px;
   left: 0px;
