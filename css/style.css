@@ -146,12 +146,17 @@ h1 {
   font-weight: bold;
   letter-spacing: -0.03em;
   margin-bottom: 0.7em;
+}
+h1 span {
+  position: relative;
+  display: inline-block;
   position: relative;
   z-index: 1;
 }
+
 article img {
   position: absolute;
-  bottom: -10px;
+  bottom: -15px;
   left: 0px;
   z-index: -1;
 }
